@@ -1,5 +1,5 @@
 <?php 
-	$Connect=mysqli_connect("localhost","root","","store");
+	$Connect=mysqli_connect("localhost","root","admin","store");
 	
 	/*$Customer="CREATE TABLE Customer(
 		CustomerID int(30) NOT NULL PRIMARY KEY,
